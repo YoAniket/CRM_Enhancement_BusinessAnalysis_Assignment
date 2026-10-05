@@ -22,3 +22,8 @@ Executive Management reviews real-time dashboards and business intelligence repo
 
 
 **Documents attached:BRD, Gap Analysis, Index, FRD, FRS, Acceptance Criteria, BPMN diagrams, UAT, RTM, Root Cause Analysis, Decision Support, and User Stories**
+
+
+Proposed CG Website: https://www.figma.com/design/zSbQcZdneAPUZrXWIVSS92/CG?node-id=0-1&p=f&t=x3mMUYn1fC7mmSTy-0
+
+Mock Screens: https://www.figma.com/design/WcocWCSSApLpJnuG3UnYEV/CG-CRM?timeline=keyframe&node-id=0-1&p=f&t=xg2O3fNQvcddVWM8-0
